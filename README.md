@@ -1,9 +1,17 @@
 # Myself-Mohamed-
 Information about me:
 # Hi there, I'm Mohamed! 👋
-<p align="center">
-  <img src="https://github.com/EH-Mohamed.png" width="150" alt="Mohamed's Avatar" />
-</p>
+  
+
+<div align="center" style="background: #0a0a15; padding: 40px; border-radius: 15px;">
+  <img src="https://github.com/EH-Mohamed.png?size=200" 
+       alt="EH-Mohamed" 
+       style="border-radius: 50%; 
+              border: 2px solid #00ffff;
+              animation: cyberGlow 2.5s ease-in-out infinite;" />
+
+
+</div>
 
 # <p align="center">Hi there, I'm Mohamed! 👋</p>
 
