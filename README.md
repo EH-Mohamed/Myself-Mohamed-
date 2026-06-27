@@ -1,6 +1,14 @@
 # Myself-Mohamed-
 Information about me:
 # Hi there, I'm Mohamed! 👋
+<p align="center">
+  <img src="https://github.com/EH-Mohamed.png" width="150" alt="Mohamed's Avatar" />
+</p>
+
+# <p align="center">Hi there, I'm Mohamed! 👋</p>
+
+<p align="center">I'm a passionate <b>Python Developer</b> focused on building automation tools, system integrations, and modern web applications.</p>
+
 
 I'm a passionate **Python Developer** focused on building automation tools, system integrations, and modern web applications. 
 
